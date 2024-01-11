@@ -1,0 +1,57 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 352d7abe-fc72-4473-8b68-62eecf44f496)
+
+  (paper "USLetter")
+
+  (title_block
+    (title "Main")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "CHANGELOG/NOTES\n\nREV A: " (at 19.685 22.86 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid fba33dfb-ab80-431d-9e1c-7f90a16c8c17)
+  )
+
+  (sheet (at 21.59 29.21) (size 34.29 16.51) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 4978ea04-f56b-4750-95a9-071f57b2b22a)
+    (property "Sheetname" "Current Measurement" (at 21.59 28.4984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "current.kicad_sch" (at 21.59 46.3046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "lab02"
+        (path "/352d7abe-fc72-4473-8b68-62eecf44f496" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 22.86 58.42) (size 35.56 19.05) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid cc5f35a2-1c02-4b49-920c-b58faab8810e)
+    (property "Sheetname" "Voltage Measurement" (at 22.86 57.7084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "voltage.kicad_sch" (at 22.86 78.0546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "lab02"
+        (path "/352d7abe-fc72-4473-8b68-62eecf44f496" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
