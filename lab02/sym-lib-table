@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PGA116")(type "KiCad")(uri "${KIPRJMOD}/PGA116.kicad_sym")(options " pwr_sym_only")(descr ""))
+  (lib (name "INA823")(type "KiCad")(uri "${KIPRJMOD}/INA823.kicad_sym")(options "")(descr "")(hidden))
+  (lib (name "lab02-symbols")(type "KiCad")(uri "${KIPRJMOD}/lab02-symbols.kicad_sym")(options "")(descr ""))
+)
