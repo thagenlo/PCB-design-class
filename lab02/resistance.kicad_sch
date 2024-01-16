@@ -403,7 +403,7 @@
     (property "Reference" "R1" (at 142.24 78.74 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100k" (at 142.24 81.28 0)
+    (property "Value" "100K" (at 142.24 81.28 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 139.7 80.01 0)
