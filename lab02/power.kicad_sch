@@ -438,7 +438,7 @@
     (property "Value" "Conn_01x02_Pin" (at 108.585 97.79 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 107.95 100.33 0)
+    (property "Footprint" "Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal" (at 107.95 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 107.95 100.33 0)
