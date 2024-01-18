@@ -73,9 +73,9 @@
     (solder_mask_margin 0.102) (tstamp 798eb439-2855-4a8d-b26e-ee7921ca8c01))
   (pad "20" smd roundrect (at 2.87 -2.925) (size 1.57 0.41) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.05)
     (solder_mask_margin 0.102) (tstamp 7b0a570e-440d-4ff7-9fb7-3e815f66e414))
-  (model "/Users/victoriahagenlocker/Downloads/PGA116AIPWR (1)/PGA116AIPWR.step"
+  (model "/Users/victoriahagenlocker/Downloads/PGA116AIPWR/PW0020A.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
+    (rotate (xyz 0 0 0))
   )
 )

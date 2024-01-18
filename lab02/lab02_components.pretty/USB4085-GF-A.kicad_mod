@@ -87,7 +87,7 @@
     (solder_mask_margin 0.102) (tstamp d8a037ea-0a0a-4491-a195-44a9f4455327))
   (pad "S4" thru_hole oval (at 4.325 -3.38) (size 0.9 2.4) (drill oval 0.6 2.1) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp 4f7c485e-c95a-4b89-9693-20fc5d92e8c2))
-  (model "/Users/victoriahagenlocker/Downloads/USB4085_GF_A (1)/USB4085-GF-A_REVB.step"
+  (model "/Users/victoriahagenlocker/Downloads/USB4085_GF_A (1)/USB4085-GF-A_REVA.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
