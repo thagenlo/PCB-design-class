@@ -3031,6 +3031,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 152.4 22.86 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 9ff785fb-2fcf-4871-be1d-550da53fc558)
+    (property "Reference" "H6" (at 154.94 21.59 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "logo2" (at 154.94 24.13 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "lab02_components:EECSLogo" (at 152.4 22.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 152.4 22.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "lab02"
+        (path "/352d7abe-fc72-4473-8b68-62eecf44f496"
+          (reference "H6") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:+3.3V") (at 242.57 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a0ee0a11-366d-41ad-b7bd-a911e8a2ca95)
@@ -3102,6 +3126,30 @@
       (project "lab02"
         (path "/352d7abe-fc72-4473-8b68-62eecf44f496"
           (reference "R3") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 130.81 22.86 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid a7657354-57fa-4286-bf40-408268a2c034)
+    (property "Reference" "H5" (at 133.35 21.59 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "logo1" (at 133.35 24.13 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "lab02_components:EdgertonLogo" (at 130.81 22.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 130.81 22.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "lab02"
+        (path "/352d7abe-fc72-4473-8b68-62eecf44f496"
+          (reference "H5") (unit 1)
         )
       )
     )
@@ -3183,6 +3231,30 @@
       (project "lab02"
         (path "/352d7abe-fc72-4473-8b68-62eecf44f496"
           (reference "SW1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 143.51 30.48 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid bd53e093-7976-4bcf-bce3-5a9073663e92)
+    (property "Reference" "H7" (at 146.05 29.21 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "logo1" (at 146.05 31.75 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "lab02_components:MechE" (at 143.51 30.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 143.51 30.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "lab02"
+        (path "/352d7abe-fc72-4473-8b68-62eecf44f496"
+          (reference "H7") (unit 1)
         )
       )
     )
