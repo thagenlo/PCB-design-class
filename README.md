@@ -1,7 +1,7 @@
 # PCB-design-class
 2.S975 KiCAD repo
 
-Multimeter Project
+**Multimeter Project**
 <img width="757" alt="multimeter 3D PCB 1" src="https://github.com/user-attachments/assets/22e0ebda-f002-41d8-a352-ac2896c8a228">
 <img width="815" alt="Screenshot 2024-08-11 at 10 22 29 AM" src="https://github.com/user-attachments/assets/f4d44c99-7271-48d3-9fea-9ec2a96bb1c7">
 <img width="804" alt="Screenshot 2024-08-11 at 10 22 42 AM" src="https://github.com/user-attachments/assets/3a27b03b-260a-4ce7-bbc2-b3c0dab52a21">
